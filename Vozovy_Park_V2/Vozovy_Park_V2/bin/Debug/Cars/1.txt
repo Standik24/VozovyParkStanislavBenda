@@ -1,0 +1,6 @@
+ID:1
+Značka:BMW
+Model:M5
+Typ:osobní
+Potřeba na 100 km:8litrů.
+Náklady na celkovou údržbu:30000

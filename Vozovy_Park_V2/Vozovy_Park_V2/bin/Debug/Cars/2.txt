@@ -1,0 +1,6 @@
+ID:2
+Značka:Škoda
+Model:Octavia
+Typ:osobní
+Spotřeba na 100 km:5,2 litrů.
+Náklady na celkovou údržbu:5000
